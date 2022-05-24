@@ -199,6 +199,12 @@ footer ul li a {
     justify-self: center;
 }
 
+.galeria img:hover {
+    transform: scale(1.15);
+}
+
+
+
     @media (min-width: 20px) and (max-width: 763px) {  
         .galeria {
             display: flex;
